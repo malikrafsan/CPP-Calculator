@@ -29,7 +29,7 @@ double f(double x, vector<double> &lst) {
 
 double integral(double delta, double bawah, double atas, vector<double> &lst) {
 	// I.S. delta, bawah, atas, dan lst terdefinisi
-	// F.S. dikembalikan nilai integral dengan metode jumlah riemann tengah, dengan dx, yaitu delta
+	// F.S. dikembalikan nilai integral dengan metode jumlah riemann trapesium, dengan dx, yaitu delta
 	// batas bawah, yaitu bawah, batas atas yaitu atas, dan koefisien masing-masing derajat polinom pada lst
 
 	// KAMUS
